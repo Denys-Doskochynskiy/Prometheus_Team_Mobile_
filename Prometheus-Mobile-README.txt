@@ -1,1 +1,3 @@
-# Prometheus_SMD-VMV
+Привіт  світ
+Це репозиторій команди Prometheus 
+а саме підрозділу Mobile
