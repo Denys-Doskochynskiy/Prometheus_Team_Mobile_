@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">login_activity</string>
+    <string name="success">Ви успішно авторизувались.</string>
+</resources>
